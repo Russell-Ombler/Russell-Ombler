@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Russell Ombler Avatar](https://github.com/Russell-Ombler/Russell-Ombler/blob/main/RussellOmblerAvatar.jpg width=100)
+![Russell Ombler Avatar](https://github.com/Russell-Ombler/Russell-Ombler/blob/main/RussellOmblerAvatar.jpg = 100x100)
 
 "I am Russell from East Yorkshire, United Kingdom, and I am currently studying Web Development with HyperionDev. I am thoroughly enjoying the course, which covers a wide range of topics, including HTML, CSS, Responsive Design, JavaScript, Object-Oriented Programming, DOM Manipulation, JSON and AJAX with Fetch, NodeJS, React, Databases, and the MongoDB Database. Additionally, the course teaches authenticating with JWT, which is a valuable skill for any web developer."
 
