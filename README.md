@@ -6,5 +6,7 @@ I am Russell from East Yorkshire, United Kingdom, and I am currently studying We
 <br />
 including:-<br />
 HTML / CSS / Res<br />ponsive Design / JavaScript / Object-Oriented Programming / DOM Manipulation / JSON and AJAX with Fetch / NodeJS / React / MongoDB Database / Additionally / authenticating with JWT.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Russell-Ombler)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Russell-Omblera&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Russell-Ombler)](https://github.com/anuraghazra/github-readme-stats)
 
