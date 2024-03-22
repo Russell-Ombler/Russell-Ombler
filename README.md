@@ -8,4 +8,5 @@ including:-<br />
 HTML / CSS / Res<br />ponsive Design / JavaScript / Object-Oriented Programming / DOM Manipulation / JSON and AJAX with Fetch / NodeJS / React / MongoDB Database / Additionally / authenticating with JWT.<br />
 <br />
 <br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Russell-Ombler&theme=light&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Russell-Ombler)](https://github.com/anuraghazra/github-readme-stats)
+
