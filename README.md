@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/Russell-Ombler/Russell-Ombler/blob/main/RussellOmblerAvatar.jpg" alt="Russell Ombler" Avatar width="100">
+<img src="https://github.com/Russell-Ombler/Russell-Ombler/blob/main/RussellOmblerAvatar.jpg" alt="Russell Ombler Avatar" Avatar width="100">
 <br />
 I am Russell from East Yorkshire, United Kingdom, and I am currently studying Web Development with HyperionDev. I am thoroughly enjoying the course, which covers a wide range of topics,
 <br />
@@ -19,8 +19,6 @@ React
 MongoDB Database
 Authenticating with JW
 ```
-
-
 <br />
 <br />
 
