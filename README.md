@@ -9,8 +9,13 @@ I am Russell from East Yorkshire, United Kingdom, and I am currently studying We
 | Course Contents ||
 | --------------- | --------------- |
 | HTML            | CSS             |
+| Responsive Design | JavaScript |
+| Object-Oriented Programming | DOM Manipulation |
+| JSON and AJAX with Fetch | NodeJS |
+| React | MongoDB Database |
+| authenticating with JW ||
 
- /  / Responsive Design / JavaScript / Object-Oriented Programming / DOM Manipulation / JSON and AJAX with Fetch / NodeJS / React / MongoDB Database / Additionally / authenticating with JWT.
+ /  /  /  /  /  /  /  /  /  / Additionally / T.
 <br />
 <br />
 
