@@ -6,9 +6,8 @@ I am Russell from East Yorkshire, United Kingdom, and I am currently studying We
 <br />
 <br />
 
-
-```
 ## Course Contents
+```
 HTML
 CSS
 Responsive Design
